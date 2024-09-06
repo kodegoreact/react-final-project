@@ -22,12 +22,12 @@ const Navigation = ({cart}) => {
                 <Navbar.Brand href="#home">Sample Market</Navbar.Brand>
                 <Nav className="ml-auto">
                     <Nav.Link>
-                        <Link to="/">
+                        <Link to="/react-final-project/">
                             Home
                         </Link>
                     </Nav.Link>
                     <Nav.Link>
-                        <Link to="/add">
+                        <Link to="/react-final-project/add">
                             Add Product
                         </Link>
                     </Nav.Link>
